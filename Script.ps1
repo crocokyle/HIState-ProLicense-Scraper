@@ -1,7 +1,7 @@
 ﻿# EDIT THESE VARIABLES TO SPECIFY LICENSE TYPE, ETC.
 # Upload your .json file to https://json-csv.com/ to convert it to an excel file
 
-$fileName = "C:\Users\hegadmin.HEG\Desktop\SELicenses.json"
+$fileName = "%DESKTOP%\SELicenses.json"
 $licensetype = "PE"
 $subtype = "STRUCTURAL"
 $total = 1200
