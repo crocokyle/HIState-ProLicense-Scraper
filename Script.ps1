@@ -4,7 +4,7 @@
 $fileName = "%DESKTOP%\SELicenses.json"
 $licensetype = "PE"
 $subtype = "STRUCTURAL"
-$total = 10000
+$total = 20000
 
 # DON'T EDIT ANYTHING BELOW THIS LINE EXCEPT FOR SEARCH STRINGS
 
