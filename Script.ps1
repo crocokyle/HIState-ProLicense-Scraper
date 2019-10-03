@@ -4,12 +4,12 @@
 $fileName = "%DESKTOP%\SELicenses.json"
 $licensetype = "PE"
 $subtype = "STRUCTURAL"
-$total = 1200
+$total = 10000
 
 # DON'T EDIT ANYTHING BELOW THIS LINE EXCEPT FOR SEARCH STRINGS
 
 $ParentDir = Split-Path $fileName
-$num = 1000
+$num = 0
 $found = 0
 $userAgent = [Microsoft.PowerShell.Commands.PSUserAgent]::Chrome
 Clear-Variable -Name "List"
