@@ -1,2 +1,2 @@
 # HIState-ProLicense-Scraper
-Builds a list of specified professional licenses from the Hawaii State Database
+Powershell script that builds a list of specified professional licenses from the Hawaii State Database at https://pvl.ehawaii.gov/pvlsearch/
